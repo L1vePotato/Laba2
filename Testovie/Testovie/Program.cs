@@ -25,6 +25,11 @@ namespace Testovie
             string Umnoj;
             string Razdel;
 
+            int C = A * B;
+
+            Console.WriteLine("Ответ: " + C);
+            Console.ReadKey();
+
         }
     }
 }
