@@ -25,10 +25,9 @@ namespace Testovie
             string Umnoj;
             string Razdel;
 
-            int C = A + B;
+            int C = A - B;
 
-            Console.WriteLine("Ответ");
-            Console.WriteLine(C);
+            Console.WriteLine("Ответ: " + C);
             Console.ReadKey();
 
         }
