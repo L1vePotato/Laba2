@@ -1,7 +1,10 @@
 D:\dz\ISRPO\Git\test\Testovie\Testovie\bin\Debug\Testovie.exe.config
 D:\dz\ISRPO\Git\test\Testovie\Testovie\bin\Debug\Testovie.exe
 D:\dz\ISRPO\Git\test\Testovie\Testovie\bin\Debug\Testovie.pdb
+<<<<<<< HEAD
 D:\dz\ISRPO\Git\test\Testovie\Testovie\obj\Debug\Testovie.csproj.AssemblyReference.cache
+=======
+>>>>>>> Razdel
 D:\dz\ISRPO\Git\test\Testovie\Testovie\obj\Debug\Testovie.csproj.SuggestedBindingRedirects.cache
 D:\dz\ISRPO\Git\test\Testovie\Testovie\obj\Debug\Testovie.csproj.CoreCompileInputs.cache
 D:\dz\ISRPO\Git\test\Testovie\Testovie\obj\Debug\Testovie.exe
