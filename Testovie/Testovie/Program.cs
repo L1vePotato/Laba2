@@ -25,10 +25,22 @@ namespace Testovie
             string Umnoj;
             string Razdel;
 
-            int C = A - B;
+            if (X == "+")
+            {
+                int C = A + B;
+                Console.WriteLine("Ответ: " + C);
+            }
+            if (X == "-")
+            {
+                int C = A - B;
+                Console.WriteLine("Ответ: " + C);
+            }
+            if (X == "*")
+            {
+                int C = A * B;
+                Console.WriteLine("Ответ: " + C);
+            }
 
-            Console.WriteLine("Ответ: " + C);
-            Console.ReadKey();
 
         }
     }
